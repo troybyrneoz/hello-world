@@ -1,2 +1,4 @@
 # hello-world
-just another repository 
+I have no idea what im doing
+
+Yahy 
